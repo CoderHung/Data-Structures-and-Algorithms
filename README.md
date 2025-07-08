@@ -2,7 +2,7 @@
 
 1. [Arrays](./array)
 2. [Graphs](./graph)
-3. [Hash Tables (Dictionary)](./hash_table)
+3. [Hash Tables](./hash_table)
 4. [Linked Lists](./linked_list)
 5. [Stack](./queue)
 6. [Queues](./stack)
