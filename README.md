@@ -1,1 +1,10 @@
-# Data-structures
+# 1.[Data Structures](/03.%20Data%20Structures/)
+
+1. [Arrays](./array)
+2. [Graphs](./graph)
+3. [Hash Tables (Dictionary)](./hash_table)
+4. [Linked Lists](./linked_list)
+5. [Stack](./queue)
+6. [Queues](./stack)
+7. [Trees](./tree)
+8. [Heap&PQ](./Heap&PriorityQueue)
