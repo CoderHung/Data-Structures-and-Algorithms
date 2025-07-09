@@ -18,3 +18,7 @@
 5. [Sorting](./Algorithms/sorting)
 6. [Traversal](./Algorithms/Traversal)
 
+
+# 3.[Decorators](./Decorators/)
+
+# 4.[Debugging](./Debugging/)
