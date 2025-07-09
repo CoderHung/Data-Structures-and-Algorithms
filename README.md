@@ -21,4 +21,10 @@
 
 # 3.[Decorators](./Decorators/)
 
-# 4.[Debugging](./Debugging/)
+# 4.[Generators](./Generators/)
+
+# 5.[Debugging](./Debugging/)
+
+# 6.[Regex](./Regex/)
+
+# 7.[Lambda](./Lambda/)
