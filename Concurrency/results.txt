@@ -1,9 +1,9 @@
 Asyncio: 1.0s
-.Multiprocessing: 1.22s
-.Non-concurrent: 5.0s
-.Threading: 1.01s
+.Multiprocessing: 2.18s
+.Non-concurrent: 10.0s
+.Threading: 2.01s
 .
 ----------------------------------------------------------------------
-Ran 4 tests in 8.235s
+Ran 4 tests in 15.198s
 
 OK
