@@ -28,3 +28,7 @@
 # 6.[Regex](./Regex/)
 
 # 7.[Lambda](./Lambda/)
+
+# 8.[Concurrency](./Concurrency/)
+
+# 9.[Parallelism](./Parallelism/)
